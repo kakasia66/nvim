@@ -1,0 +1,26 @@
+500 Can't connect to -:80 (Name or service not known)
+Content-Type: text/plain
+Client-Date: Fri, 03 Feb 2023 11:54:59 GMT
+Client-Warning: Internal response
+
+403 Forbidden
+Connection: close
+Date: Fri, 03 Feb 2023 11:55:01 GMT
+Server: AkamaiGHost
+Content-Length: 267
+Content-Type: text/html
+Expires: Fri, 03 Feb 2023 11:55:01 GMT
+Client-Date: Fri, 03 Feb 2023 11:55:01 GMT
+Client-Peer: 95.101.15.100:80
+Client-Response-Num: 1
+Link: <http://api4.origin.com>; rel=preconnect
+Link: <http://api3.origin.com>; rel=preconnect
+Link: <http://api2.origin.com>; rel=preconnect
+Link: <http://api1.origin.com>; rel=preconnect
+Link: <http://data4.origin.com>; rel=preconnect
+Link: <http://data3.origin.com>; rel=preconnect
+Link: <http://data2.origin.com>; rel=preconnect
+Link: <http://data1.origin.com>; rel=preconnect
+Mime-Version: 1.0
+Strict-Transport-Security: max-age=7776000
+
